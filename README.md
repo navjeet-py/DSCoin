@@ -12,7 +12,7 @@
 1. JAVA 11
 
 ### Basic Details
-In this project, I built a cryptocurrency model, DSCoin. Every DSCoin has a unique serial number. Whenever person A wants to send a coin to person B, A makes contact with the moderator with the transaction details. Moderator verifies all the details and finalises the transaction. One can also mine coins and get rewarded for it. All kinds of security measures of a typical cryptocurrencies are followed. 
+In this project, a cryptocurrency model called DSCoin was built. Every DSCoin has a unique serial number. Whenever person A wants to send a coin to person B, A makes contact with the moderator with the transaction details. Moderator verifies all the details and finalises the transaction. One can also mine coins and get rewarded for it. All kinds of security measures of a typical cryptocurrencies are followed. 
 
 All the project details can be found in this pdf - [Project Details](https://github.com/navjeet-py/DSCoin/blob/main/Project%20Details.pdf).
 
@@ -32,8 +32,8 @@ Example transactions can be found in this pdf - [Transaction Examples](https://g
 4. A *blockchain* is an authenticated linked list of transaction-blocks.
 5. **Pending transactions and transaction-queue:** All the transactions in the transaction-block are processed transactions. Additionally, we have a transaction-queue which contains pending transactions. Every new transaction is first added to the transaction-queue, and later moved to a transaction-block (and thus added to the blockchain).
 
-![](https://user-images.githubusercontent.com/67374125/186255343-b894af6b-d8fe-4153-90d6-e4ff7fa425db.jpeg)
-
 Other technical details can be found in this pdf - [Project Details](https://github.com/navjeet-py/DSCoin/blob/main/Project%20Details.pdf).
-### How to run
+### How to test run
+You need to have JAVA11 installed in your system, where you want to test it. Compile using the *makefile*. Then to know about functions to create instances of admin, moderator, and members, we may refer to [DriverCode.java](https://github.com/navjeet-py/DSCoin/blob/main/DSCoinPackage/DriverCode.java). We'll also find the example use cases of functions to initialize and send coins there. 
 
+Thank you.
