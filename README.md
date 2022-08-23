@@ -34,6 +34,6 @@ Example transactions can be found in this pdf - [Transaction Examples](https://g
 
 Other technical details can be found in this pdf - [Project Details](https://github.com/navjeet-py/DSCoin/blob/main/Project%20Details.pdf).
 ### How to test run
-You need to have JAVA11 installed in your system, where you want to test it. Compile using the *makefile*. Then to know about functions to create instances of admin, moderator, and members, we may refer to [DriverCode.java](https://github.com/navjeet-py/DSCoin/blob/main/DSCoinPackage/DriverCode.java). We'll also find the example use cases of functions to initialize and send coins there. 
+You need to have JAVA11 installed in your system, where you want to test it. Compile using the *makefile*. Then to know about functions to create instances of admin, moderator, and members, we may refer to [DriverCode.java](https://github.com/navjeet-py/DSCoin/blob/main/DSCoinPackage/DriverCode.java). We can also find the example use cases of functions to initialize and send coins there. 
 
 Thank you.
