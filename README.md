@@ -26,7 +26,7 @@ Example transactions can be found in this pdf - [Transaction Examples](https://g
    * the destination (that is, the person receiving this coin)
    * some information to indicate when the source received this coin from someone (this will be described in more detail later).
    
- For simplicity, we assume every transaction consists of exactly one coin.
+    For simplicity, we assume every transaction consists of exactly one coin.
  
 3. A transaction-block consists of a set of transactions. Let *tr-count* denote the number of transactions per block. The transaction-block will also have additional attributes, which will be discussed below.
 4. A *blockchain* is an authenticated linked list of transaction-blocks.
