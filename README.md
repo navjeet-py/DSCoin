@@ -1,5 +1,6 @@
 # DS Coin
 
+
 ### Concepts used in the implementation - 
 1. Merkle Tree
 2. Hashing 
@@ -16,3 +17,10 @@ All the project details can be found in this pdf - [Project Details](https://git
 
 Example transactions can be found in this pdf - [Transaction Examples](https://github.com/navjeet-py/DSCoin/blob/main/Transaction%20Example.pdf).
 
+## Basic Conventions and Terminoloies - 
+1. Every coin is a six digit unique number.
+2. Every transaction has the following information:
+– the coin being transferred
+– the source (that is, the person spending this coin)
+– the destination (that is, the person receiving this coin)
+– some information to indicate when the source received this coin from someone (this will be described in more detail later).
