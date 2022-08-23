@@ -27,6 +27,7 @@ Example transactions can be found in this pdf - [Transaction Examples](https://g
    * some information to indicate when the source received this coin from someone (this will be described in more detail later).
    
  For simplicity, we assume every transaction consists of exactly one coin.
+ 
 3. A transaction-block consists of a set of transactions. Let *tr-count* denote the number of transactions per block. The transaction-block will also have additional attributes, which will be discussed below.
 4. A *blockchain* is an authenticated linked list of transaction-blocks.
 5. **Pending transactions and transaction-queue:** All the transactions in the transaction-block are processed transactions. Additionally, we have a transaction-queue which contains pending transactions. Every new transaction is first added to the transaction-queue, and later moved to a transaction-block (and thus added to the blockchain).
