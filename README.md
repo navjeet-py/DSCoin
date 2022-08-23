@@ -7,7 +7,8 @@
 4. Mining
 5. Various others algorithms and data structures 
 
-### Language Used - JAVA 11
+### Languages used - 
+1. JAVA 11
 
 In this project, I built a cryptocurrency model, DSCoin. Every DSCoin has a unique serial number. Whenever person A wants to send a coin to person B, A makes contact with the moderator with the transaction details. Moderator verifies all the details and finalises the transaction. One can also mine coins and get rewarded for it. All kinds of security measures of a typical cryptocurrencies are followed. 
 
