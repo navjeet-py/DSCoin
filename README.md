@@ -20,7 +20,7 @@ Example transactions can be found in this pdf - [Transaction Examples](https://g
 ## Basic Conventions and Terminoloies - 
 1. Every coin is a six digit unique number.
 2. Every transaction has the following information:
-  - the coin being transferred
-  - the source (that is, the person spending this coin)
-  - the destination (that is, the person receiving this coin)
-  - some information to indicate when the source received this coin from someone (this will be described in more detail later).
+   * the coin being transferred
+   * the source (that is, the person spending this coin)
+   * the destination (that is, the person receiving this coin)
+   * some information to indicate when the source received this coin from someone (this will be described in more detail later).
